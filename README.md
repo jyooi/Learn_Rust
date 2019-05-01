@@ -1,1 +1,1 @@
-# Learn_Rust
+# Rust Guessing Game
